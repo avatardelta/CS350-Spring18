@@ -1,0 +1,17 @@
+Thoughts on cs350-Task-P1
+
+Regarding edges:
+is the case:
+
+
+e, 1, 4
+
+connecting vertices 1 and 4?
+
+where
+
+e, 1, 4
+e, 2, 5 
+
+connects edges 1 and 2 with color 5, ignoring the parameter argument of 4?
+
